@@ -16,8 +16,8 @@ my python code (in jupyter notebook) when participating in the Kaggle competitio
 
 	first start date: 2/17/2019
 	
-	last updated date: 2/17/2019
+	last updated date: 4/21/2019
 	
-	lowest root mean squared logarithmetic error: 0.17686
+	lowest root mean squared logarithmetic error: 0.17463
 	
-	rank: 3170/3962, top 81%
+	rank: 3305/4259, top 77%
