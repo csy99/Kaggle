@@ -10,9 +10,9 @@ my python code (in jupyter notebook) when participating in the Kaggle competitio
 		
 	last updated date: 5/18/2019
 		
-	highest accuracy: 78.95%
+	highest accuracy: 79.9%
 		
-	rank: 3151/11413, top 27.6%
+	rank: 1665/11401, top 14.6%
 
 2. House Prices: Advanced Regression Techniques
 
