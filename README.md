@@ -3,14 +3,16 @@ my python code (in jupyter notebook) when participating in the Kaggle competitio
 
 
 1. Titanic
+
+	file: Titanic, Titanic_NN_Adam
 		
 	first start date: 1/27/2019
 		
-	last updated date: 2/3/2019
+	last updated date: 5/18/2019
 		
-	highest accuracy: 78.47%
+	highest accuracy: 78.95%
 		
-	rank: 3255/10011, top 33%
+	rank: 3151/11413, top 27.6%
 
 2. House Prices: Advanced Regression Techniques
 
