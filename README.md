@@ -16,7 +16,7 @@ my python code (in jupyter notebook) when participating in the Kaggle competitio
 
 2. House Prices: Advanced Regression Techniques
 
-	file: House Prices
+	file: House Price
 	
 	first start date: 2/17/2019
 	
